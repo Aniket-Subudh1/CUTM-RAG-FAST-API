@@ -1,3 +1,4 @@
+faiss-cpu
 fastapi
 starlette
 typing-extensions
