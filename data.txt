@@ -1,5 +1,81 @@
 CUTM Website Content
 Source: https://cutm.ac.in/
+
+Leaders in CUTM
+Name: Prof. Mukti Kanta Mishra
+Designation: Co-founder & President
+Profile Link: https://cutm.ac.in/staff/prof-mukti-kanta-mishra/
+Image URL: https://cutm.ac.in/wp-content/uploads/2024/06/leader-img-1.png
+
+Name: Prof. D.N. Rao
+Designation: Co-Founder & Vice President
+Profile Link: https://cutm.ac.in/staff/prof-d-n-rao/
+Image URL: https://cutm.ac.in/wp-content/uploads/2024/06/rao-sir.jpg
+
+Name: Prof. Supriya Pattanayak
+Designation: Vice Chancellor
+Profile Link: https://cutm.ac.in/staff/prof-supriya-pattanayak/
+Image URL: https://cutm.ac.in/wp-content/uploads/2024/06/supriya-mam.jpg
+
+Name: Prof. Anita Patra
+Designation: Registrar
+Profile Link: https://cutm.ac.in/staff/prof-anita-patra/
+Image URL: https://cutm.ac.in/wp-content/uploads/2024/06/arpita-mam.jpg
+
+Name: Dr. Biswajit Mishra
+Designation: Pro Vice Chancellor"
+
+
+University Deans
+Dr. Ashish Ranjan Dash
+Dean, SoET, PKD
+Profile: https://cutm.ac.in/staff/dr-ashish-ranjan-dash/
+
+Dr. P. Srinivsa Rao
+Dean, R&D
+Profile: https://cutm.ac.in/staff/dr-p-srinivsa-rao/
+
+Dr. Prasanta Kumar Mohanty
+Dean, Academics
+Profile: https://cutm.ac.in/staff/dr-prasanta-kumar-mohanty/
+
+Dr. S. P. Nanda
+Dean, MSSSOA
+Profile: https://cutm.ac.in/staff/dr-s-p-nanda/
+
+Dr. Sangram Keshari Swain
+Dean Examinations & Students' Welfare
+Profile: https://cutm.ac.in/staff/dr-sangram-keshari-swain/
+
+Dr. Sujata Chakravarty
+Dean, SoET
+Profile: https://cutm.ac.in/staff/dr-sujata-chakravarty/
+
+Dr. Nitesh Dhar Badgayan
+Advisor
+Profile: https://cutm.ac.in/staff/dr-nitesh-dhar-badgayan/
+
+Dr. Yashaswi Nayak
+Dean, SoAS
+Profile: https://cutm.ac.in/staff/dr-yashaswi-nayak/
+
+Dr. Amulyaratna Behera
+Dean, School of Forensic Sciences
+Profile: https://cutm.ac.in/staff/dr-amulyaratna-behera/
+
+Dr. Sivala Kumar
+Dean and Professor in the Department of Agricultural Engineering
+Profile: https://cutm.ac.in/staff/dr-sivala-kumar/
+
+Prof (Dr.) Gurudutta Pattanik
+Dean, School of Pharmacy and Life Sciences
+Profile: https://cutm.ac.in/staff/prof-dr-gurudutta-pattanik/
+
+Prof. Sunil Kumar Jha
+Dean of School of Paramedics and Allied Health Sciences
+Profile: https://cutm.ac.in/staff/prof-sunil-kumar-jha/
+
+
 Setting Benchmarks as India’s Largest Skills University
 Skill Course Students
 Find your Career Path
@@ -4016,6 +4092,7 @@ Dr. Sangram Keshari Swain
 Dean Examinations & Students' Welfare
 Dr. Ashish Ranjan Dash
 Dr. Sujata Chakravarty
+
 Source: https://cutm.ac.in/courses/ll-m-in-commercial-law/
 LL.M. in Commercial Law
 School of Law Courses
