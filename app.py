@@ -103,6 +103,11 @@ def get_chat_chain(vector_store):
     retriever = vector_store.as_retriever()
     return create_retrieval_chain(retriever, document_chain)
 
+@app.get("/")
+async def root():
+    """Root endpoint that confirms the API is running."""
+    return {"message": "CUTM RAG Chatbot Backend is up and running"}
+
 @app.on_event("startup")
 async def startup_event():
     """Initialize vector store on startup."""
