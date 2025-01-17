@@ -4,6 +4,7 @@ starlette==0.35.0  # Ensure compatibility with fastapi
 typing-extensions>=4.10,<5.0  # Fix conflict for typing-extensions
 langchain==0.2.2  # Updated to a later version
 langchain-core==0.2.0  # Updated to be compatible with langchain 0.2.2
+langchain-text-splitters==0.2.0  # Updated to be compatible with langchain 0.2.2
 
 # Libraries related to web and async functionality
 aiohappyeyeballs==2.4.4
@@ -43,7 +44,6 @@ jsonschema-specifications==2023.12.1
 langchain-community==0.0.13
 langchain-groq==0.1.0  # Use latest compatible version
 langchain-ollama==0.1.0  # Use the compatible version
-langchain-text-splitters==0.0.1
 langsmith==0.0.77
 markdown-it-py==3.0.0
 MarkupSafe==2.1.4
