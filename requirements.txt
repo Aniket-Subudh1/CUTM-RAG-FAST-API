@@ -1,5 +1,9 @@
+# Update typing-extensions to be >=4.10, <5.0 to satisfy both fastapi and groq
+typing-extensions>=4.10,<5.0
 fastapi==0.109.0
-starlette==0.35.0
+groq==0.13.1
+
+# other packages
 aiohappyeyeballs==2.4.4
 aiohttp==3.9.3
 aiosignal==1.3.1
@@ -21,7 +25,6 @@ frozenlist==1.4.1
 gitdb==4.0.11
 GitPython==3.1.41
 greenlet==3.0.3
-groq==0.13.1
 grpcio==1.60.0
 grpcio-tools==1.60.0
 h11==0.14.0
@@ -93,7 +96,6 @@ tenacity==8.2.3
 toml==0.10.2
 tornado==6.4
 typing-inspect==0.9.0
-typing_extensions==4.9.0
 tzdata==2023.4
 urllib3==2.1.0
 uvicorn==0.25.0
