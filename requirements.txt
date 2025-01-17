@@ -2,8 +2,8 @@
 fastapi==0.109.0
 starlette==0.35.0  # Ensure compatibility with fastapi
 typing-extensions>=4.10,<5.0  # Fix conflict for typing-extensions
-langchain==0.1.0  # Aligning langchain with core version
-langchain-core==0.1.7  # Aligning langchain-core with langchain
+langchain==0.2.2  # Updated to a later version
+langchain-core==0.1.9  # Set langchain-core to >=0.1.9 to satisfy langchain-community
 
 # Libraries related to web and async functionality
 aiohappyeyeballs==2.4.4
